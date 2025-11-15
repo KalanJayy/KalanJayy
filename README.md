@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🔹MERN Stack: MongoDB, Express.js, React.js, Node.js<br>🔹Java: Building object-oriented applications, using JavaFX & Swing<br>🔹API Development: RESTful APIs, integrating third-party services, Postman testing
 
 

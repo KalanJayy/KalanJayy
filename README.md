@@ -1,12 +1,3 @@
-
-MERN Full Stack – React, Node.js, Express, MongoDB
-
-Mobile Development – React Native
-
-Java Development – Java, OOP, JavaFX, Swing
-
-AI / ML – YOLO-based computer vision, model training, Gen-AI integrations
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/734706691878420535) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalanajayaweera0714) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalana33471@gmail.com) 
 
